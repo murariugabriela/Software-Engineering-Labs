@@ -1,4 +1,4 @@
 # Software-Engineering-Labs
-Student: Murariu Gabriela
+ Student: <b> Murariu Gabriela </b>
 <br />
-An, Grupa: 2B3
+An, Grupa: <b> 2B3 </b>
